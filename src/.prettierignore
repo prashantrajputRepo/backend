@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules
+bower_components
+
+# Build output
+build
+dist
+
+# Environment files
+.env
+
+# Coverage output
+coverage
+
+# Logs
+*.log
+
+# OS & Editor specific
+.DS_Store
+.vscode
+.idea
+
+# Optional: Ignore specific frontend or backend folders
+client/build
+server/build
